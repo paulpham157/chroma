@@ -1,4 +1,4 @@
-black==23.3.0 # match what's in pyproject.toml
+black==24.3.0 # match what's in pyproject.toml
 build
 chroma-hnswlib==0.7.6
 grpcio-tools==1.67.1 # Later version not compatible with protobuf 4.25.5
