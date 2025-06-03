@@ -37,7 +37,7 @@
     "katex": "^0.16.9",
     "lucide": "^0.464.0",
     "lucide-react": "^0.464.0",
-    "next": "^14.2.13",
+    "next": "^15.3.3",
     "next-themes": "^0.3.0",
     "posthog-js": "^1.200.1",
     "prismjs": "^1.29.0",
