@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "rimraf": "^5.0.0",
-    "tsup": "^8.3.5"
+    "tsup": "^8.5.0"
   },
   "dependencies": {
     "@chroma-core/ai-embeddings-common": "workspace:^",
