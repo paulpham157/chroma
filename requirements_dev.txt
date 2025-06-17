@@ -1,4 +1,4 @@
-black==23.3.0 # match what's in pyproject.toml
+black==24.3.0 # match what's in pyproject.toml
 build
 chroma-hnswlib==0.7.6
 fastapi>=0.115.9
@@ -10,7 +10,7 @@ mypy-protobuf
 opentelemetry-instrumentation-fastapi>=0.41b0
 pandas
 pre-commit
-protobuf==5.28.0 # Later version not compatible with opentelemetry 1.27.0
+protobuf==5.29.5 # Later version not compatible with opentelemetry 1.27.0
 psutil
 pytest
 pytest-asyncio
